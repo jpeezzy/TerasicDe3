@@ -1,0 +1,6 @@
+QUARTUS_VERSION = "9.1"
+DATE = "14:43:49 March 09, 2018"
+
+# Revisions
+
+PROJECT_REVISION = "DE3_TestBoard"

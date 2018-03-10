@@ -1,0 +1,41 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'DE3_CLK6'
+Slack : 18.735
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'DE3_CLK6'
+Slack : 0.283
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'DE3_CLK6'
+Slack : 9.289
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'DE3_CLK6'
+Slack : 18.915
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'DE3_CLK6'
+Slack : 0.261
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'DE3_CLK6'
+Slack : 9.267
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'DE3_CLK6'
+Slack : 19.254
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'DE3_CLK6'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'DE3_CLK6'
+Slack : 9.629
+TNS   : 0.000
+
+------------------------------------------------------------

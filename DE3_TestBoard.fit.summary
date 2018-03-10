@@ -1,0 +1,18 @@
+Fitter Status : Successful - Fri Mar 09 21:27:56 2018
+Quartus II 64-Bit Version : 13.0.0 Build 156 04/24/2013 SJ Full Version
+Revision Name : DE3_TestBoard
+Top-level Entity Name : DE3_TestBoard
+Family : Stratix III
+Device : EP3SL150F1152C2
+Timing Models : Final
+Logic utilization : < 1 %
+    Combinational ALUTs : 114 / 113,600 ( < 1 % )
+    Memory ALUTs : 0 / 56,800 ( 0 % )
+    Dedicated logic registers : 98 / 113,600 ( < 1 % )
+Total registers : 98
+Total pins : 594 / 744 ( 80 % )
+Total virtual pins : 0
+Total block memory bits : 0 / 5,630,976 ( 0 % )
+DSP block 18-bit elements : 0 / 384 ( 0 % )
+Total PLLs : 0 / 8 ( 0 % )
+Total DLLs : 0 / 4 ( 0 % )
