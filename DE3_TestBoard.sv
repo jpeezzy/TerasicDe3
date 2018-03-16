@@ -290,12 +290,12 @@ assign LEDB = 8'hff; // Turn OFF the LEDB0~LEDB7
 //assign HEX1 = 7'b1111101;
 //assign HEX1_DP = 1'b1;
 
-always_comb begin
-  HEX0 = #10000000000 `ONE;
-  HEX0 = #10000000000 `TWO;
-  HEX0 = #10000000000 `THREE;
-  HEX0 = #10000000000 `FOUR;
-  HEX0 = #10000000000 `FIVE;
-  HEX0 = #10000000000 `SIX;
+initial begin
+  #5 HEX0 = `ONE;
+  #100 HEX0 = `TWO;
+  #2 HEX0 = `THREE;
+  #4 HEX0 = `FOUR;
+  #5 HEX0 = `FIVE;
+  #6 HEX0 = `SIX;
 end
 endmodule
