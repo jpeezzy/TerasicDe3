@@ -1,0 +1,9 @@
+`define h0 8'h6a09e667
+`define h1 8'hbb67ae85
+`define h2 8'h3c6ef372
+`define h3 8'ha54ff53a
+`define h4 8'h510e527f
+`define h5 8'h9b05688c
+`define h6 8'h1f83d9ab
+`define h7 8'h5be0cd19
+
