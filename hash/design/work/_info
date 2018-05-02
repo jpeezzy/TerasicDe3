@@ -1,0 +1,339 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design
+vadder
+Z1 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z2 !s110 1519684450
+!i10b 1
+!s100 ijVXn`j8gkb?JEem_D[5R0
+IhNgc^@?<z7To>djF^aZLM1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 adder_sv_unit
+S1
+R0
+w1519520536
+8/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/adder.sv
+F/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/adder.sv
+L0 3
+Z4 OL;L;10.4c;61
+r1
+!s85 0
+31
+Z5 !s108 1519684450.000000
+Z6 !s107 adderCL4.sv|adder32Bit.sv|aluConstants.vh|/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/RISC_V.sv|/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/Datapath.sv|/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/Controller.sv|/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/RegFile.sv|/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/alu.sv|/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/ALUController.sv|/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/instructionmemory.sv|/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/datamemory.sv|/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/mux2.sv|/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/imm_Gen.sv|/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/flopr.sv|/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/adder.sv|
+Z7 !s90 -quiet|-64|-sv|-f|/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/rtl.cfg|
+!i113 0
+Z8 o-quiet -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vadder32Bit
+R1
+R2
+!i10b 1
+!s100 _EYdcAc`@;3aP4aPndN541
+I>4eFAiG7k<NEFWTE>GIKo3
+R3
+Z9 !s105 alu_sv_unit
+S1
+R0
+w1519635872
+8adder32Bit.sv
+Fadder32Bit.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+nadder32@bit
+vadderCL4
+R1
+R2
+!i10b 1
+!s100 kXDc0MW84iL_6>8dm3P343
+Il<I5c]D4Jn_EKG8E`U<>V2
+R3
+R9
+S1
+R0
+w1519520220
+8adderCL4.sv
+FadderCL4.sv
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+nadder@c@l4
+vALUController
+R1
+R2
+!i10b 1
+!s100 JPgKU?BJ[IcigD?<ANPmz2
+I49bEbZz2Q[[aUI8JhZeCX1
+R3
+!s105 ALUController_sv_unit
+S1
+R0
+w1519684274
+8/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/ALUController.sv
+F/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/ALUController.sv
+L0 24
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+n@a@l@u@controller
+vController
+R1
+R2
+!i10b 1
+!s100 4C<<>FWiL^IYP2XA`<BI82
+IQHBPii<VA<7ZBA?YFkn493
+R3
+R9
+S1
+R0
+w1519634537
+8/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/Controller.sv
+F/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/Controller.sv
+Z10 L0 22
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+n@controller
+vdatamemory
+R1
+R2
+!i10b 1
+!s100 jnZAR?6OKKaNBcUbK:ocM3
+I7A@i2@ik8SYOchb2JA^Kl2
+R3
+!s105 datamemory_sv_unit
+S1
+R0
+Z11 w1519439011
+8/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/datamemory.sv
+F/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/datamemory.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vDatapath
+R1
+R2
+!i10b 1
+!s100 `0FNNzkB<_1;HoeAdQXQR0
+I;C56IR6hXh`oK_eeK8oW<3
+R3
+R9
+S1
+R0
+R11
+8/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/Datapath.sv
+F/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/Datapath.sv
+R10
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+n@datapath
+vflopr
+R1
+R2
+!i10b 1
+!s100 B6BS^>`X=WIeQVmG9i5VI0
+If1CVZbS:E]l@a11^e9fiB1
+R3
+!s105 flopr_sv_unit
+S1
+R0
+R11
+8/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/flopr.sv
+F/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/flopr.sv
+Z12 L0 23
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vimm_Gen
+R1
+R2
+!i10b 1
+!s100 c09ShcD<;IkKVHzPNjeRN3
+I:foOecR1J<d83GFa<B6Tn1
+R3
+!s105 imm_Gen_sv_unit
+S1
+R0
+w1519632060
+8/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/imm_Gen.sv
+F/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/imm_Gen.sv
+R12
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+nimm_@gen
+vinstructionmemory
+R1
+R2
+!i10b 1
+!s100 WDeODbF:iSZgT2S4[;mfd0
+IdSHT0Q@=?hA:]6bcR<j`Q0
+R3
+!s105 instructionmemory_sv_unit
+S1
+R0
+w1519681765
+8/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/instructionmemory.sv
+F/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/instructionmemory.sv
+R10
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vmux2
+R1
+R2
+!i10b 1
+!s100 @X6>V^M3YMfab:XdY67SE1
+IJ_aJ@BB2Wz3^oh4h]WNWS2
+R3
+!s105 mux2_sv_unit
+S1
+R0
+R11
+8/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/mux2.sv
+F/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/mux2.sv
+R12
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vRegFile
+R1
+R2
+!i10b 1
+!s100 K7e_M^@0VSmLzTMdBAzD51
+IzYR7C<?IobH36e62;hn^a1
+R3
+R9
+S1
+R0
+R11
+8/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/RegFile.sv
+F/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/RegFile.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+n@reg@file
+vriscv
+R1
+R2
+!i10b 1
+!s100 6QH9T_jSCAJo5D_6085U>3
+IzNOMMgg2k`JG35z[8o@_E2
+R3
+R9
+S1
+R0
+R11
+8/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/RISC_V.sv
+F/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/design/RISC_V.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 0
+R8
+vtb_top
+R1
+R2
+!i10b 1
+!s100 Ac4ganCOBnoOOlMGTCO4;3
+I7X8mFaJCJ5A9CSzFmPOcC0
+R3
+!s105 tb_top_sv_unit
+S1
+R0
+R11
+8/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/verif/tb_top.sv
+F/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/verif/tb_top.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+!s107 /users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/verif/tb_top.sv|
+!s90 -quiet|-64|-sv|-f|/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/verif/tb.cfg|-work|work|
+!i113 0
+o-quiet -sv -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact

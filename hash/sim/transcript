@@ -1,0 +1,137 @@
+# vsim -quiet -c tb_top_opt -do "sim.do" "+notimingchecks" 
+# Start time: 23:06:05 on May 01,2018
+# //  Questa Sim-64
+# //  Version 10.4c linux_x86_64 Jul 19 2015
+# //
+# //  Copyright 1991-2015 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# do sim.do
+# waveform.wlf
+# Created our variable in from randomly generated file
+# our input is 5105b8184c971573f8363c4d67abd3b87121d04a61c1a6cd16ff687c52aff4924159689767445b6046dd43d7c0aefdd2edd4bfd2fa1ef7e1ed93c97b1965a326
+# Count is at           x 
+# 
+# Count is at           0 
+# 
+# Count is at           1 
+# 
+# Count is at           2 
+# 
+# Count is at           3 
+# 
+# Count is at           4 
+# 
+# Count is at         vsim waveform.wlf
+# OpenFile waveform.wlf
+add wave -position insertpoint  \
+waveform3:/tb_top/sha256/ckw/in
+add wave -position insertpoint  \
+waveform3:/tb_top/sha256/ckw/W
+add wave -position insertpoint  \
+waveform3:/tb_top/sha256/ckw/K
+add wave -position insertpoint  \
+waveform3:/tb_top/sha256/ckw/count
+add wave -position insertpoint  \
+waveform3:/tb_top/sha256/ckw/K
+add wave -position insertpoint  \
+waveform3:/tb_top/sha256/ckw/W
+add wave -position insertpoint  \
+waveform3:/tb_top/sha256/_W_Mem
+add wave -position insertpoint  \
+waveform3:/tb_top/sha256/count
+   24 
+# 
+# Count is at          25 
+# 
+# Count is at          26 
+# 
+# Count is at          27 
+# 
+# Count is at          28 
+# 
+# Count is at          29 
+# 
+# Count is at          30 
+# 
+# Count is at          31 
+# 
+# Count is at          32 
+# 
+# Count is at          33 
+# 
+# Count is at          34 
+# 
+# Count is at          35 
+# 
+# Count is at          36 
+# 
+# Count is at          37 
+# 
+# Count is at          38 
+# 
+# Count is at          39 
+# 
+# Count is at          40 
+# 
+# Count is at          41 
+# 
+# Count is at          42 
+# 
+# Count is at          43 
+# 
+# Count is at          44 
+# 
+# Count is at          45 
+# 
+# Count is at          46 
+# 
+# Count is at          47 
+# 
+# Count is at          48 
+# 
+# Count is at          49 
+# 
+# Count is at          50 
+# 
+# Count is at          51 
+# 
+# Count is at          52 
+# 
+# Count is at          53 
+# 
+# Count is at          54 
+# 
+# Count is at          55 
+# 
+# Count is at          56 
+# 
+# Count is at          57 
+# 
+# Count is at          58 
+# 
+# Count is at          59 
+# 
+# Count is at          60 
+# 
+# Count is at          61 
+# 
+# Count is at          62 
+# 
+# Count is at          63 
+# 
+# Count is at          64 
+# 
+# ** Note: $finish    : /users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/verif/tb_top.sv(35)
+#    Time: 20 us  Iteration: 0  Instance: /tb_top
+# End time: 23:06:05 on May 01,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0

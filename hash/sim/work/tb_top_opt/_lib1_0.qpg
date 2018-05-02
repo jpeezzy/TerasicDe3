@@ -1,0 +1,708 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/sim
+vA_Shifter
+Z1 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z2 !s110 1525240913
+!i10b 1
+!s100 S[=M5mWAaNKo?czF?4Pgg1
+I8d2FF`7AfAXYNd?QFoHkB1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 A_Shifter_sv_unit
+S1
+Z4 d/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/sim
+w1524768034
+8/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/A_Shifter.sv
+F/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/A_Shifter.sv
+L0 2
+Z5 OL;L;10.4c;61
+r1
+!s85 0
+31
+Z6 !s108 1525240913.000000
+Z7 !s107 /users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/SHA256.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Set_W_Mem.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Majority.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Hash_Round.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Hash_Function.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/E_Shifter.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Counter.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Constants.vh|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Configure_Count_K_W.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Choosing_Function.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/A_Shifter.sv|
+Z8 !s90 -quiet|-64|-sv|-f|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/rtl.cfg|
+!i113 0
+Z9 o-quiet -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@a_@shifter
+vadder
+R1
+Z10 !s110 1521654141
+!i10b 1
+!s100 ijVXn`j8gkb?JEem_D[5R0
+IcO62lKCK^g1=YhIz9IW:_1
+R3
+!s105 adder_sv_unit
+S1
+R0
+Z11 w1520736405
+8/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/adder.sv
+F/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/adder.sv
+L0 3
+R5
+r1
+!s85 0
+31
+Z12 !s108 1521654141.000000
+Z13 !s107 /users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/adderCL4.sv|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/adder32Bit.sv|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/aluConstants.vh|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/branchMux.sv|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/RISC_V.sv|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/Datapath.sv|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/Controller.sv|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/RegFile.sv|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/alu.sv|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/ALUController.sv|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/instructionmemory.sv|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/datamemory.sv|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/mux2.sv|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/imm_Gen.sv|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/flopr.sv|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/adder.sv|
+Z14 !s90 -quiet|-64|-sv|-f|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/rtl.cfg|
+!i113 0
+R9
+vadder32Bit
+R1
+R10
+!i10b 1
+!s100 STPjjD?BMdDm2NHB5NIW32
+In6gFS_AfNnT2RXfZdzYPE0
+R3
+!s105 adder32Bit_sv_unit
+S1
+R0
+R11
+8/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/adder32Bit.sv
+F/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/adder32Bit.sv
+L0 2
+R5
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R9
+nadder32@bit
+vadderCL4
+R1
+R10
+!i10b 1
+!s100 6zY^cbP2`Fm6QH8G]AafW0
+IgB0ezG`k?B`6lo_VVb7n03
+R3
+!s105 adderCL4_sv_unit
+S1
+R0
+R11
+8/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/adderCL4.sv
+F/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/adderCL4.sv
+L0 2
+R5
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R9
+nadder@c@l4
+valu
+R1
+R10
+!i10b 1
+!s100 P5`zPh7hJzRQ8CNVVO8_e3
+Id04b>^SJz6cBPFH;9@KKU2
+R3
+!s105 alu_sv_unit
+S1
+R0
+R11
+8/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/alu.sv
+F/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/alu.sv
+L0 21
+R5
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R9
+vALUController
+R1
+R10
+!i10b 1
+!s100 <:QNE]]_JJIblAh^B48DN0
+IaKf4EcAG01kQEZ1LS9lAA1
+R3
+!s105 ALUController_sv_unit
+S1
+R0
+R11
+8/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/ALUController.sv
+F/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/ALUController.sv
+L0 24
+R5
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R9
+n@a@l@u@controller
+vbranchMux
+R1
+R10
+!i10b 1
+!s100 :BFJa4WaBA6[VXA?8Ya?[3
+I]=0b4W9ffCP:TH4_@LmbQ0
+R3
+!s105 branchMux_sv_unit
+S1
+R0
+R11
+8/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/branchMux.sv
+F/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/branchMux.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R9
+nbranch@mux
+vChoosing_Function
+R1
+R2
+!i10b 1
+!s100 ae[mb[>DcRH1bSDg@R50i2
+IoEi?J=LQU76:hk>8Gn[H:3
+R3
+!s105 Choosing_Function_sv_unit
+S1
+R4
+w1524768125
+8/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Choosing_Function.sv
+F/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Choosing_Function.sv
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@choosing_@function
+vConfigure_Count_K_W
+R1
+DXx4 work 27 Configure_Count_K_W_sv_unit 0 22 FC>=2a0hM_>==igEcZ9FK1
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 UXC5SA0ThWDW0VbPh[nGz1
+I<k:d2W@=aCGWJ[>>J88I@1
+!s105 Configure_Count_K_W_sv_unit
+S1
+R4
+Z15 w1525240908
+Z16 8/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Configure_Count_K_W.sv
+Z17 F/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Configure_Count_K_W.sv
+L0 2
+R5
+R6
+R7
+R8
+!i113 0
+R9
+n@configure_@count_@k_@w
+XConfigure_Count_K_W_sv_unit
+R1
+VFC>=2a0hM_>==igEcZ9FK1
+r1
+!s85 0
+31
+!i10b 1
+!s100 PWZVf7]dHYl<:eFZ0n_Pd0
+IFC>=2a0hM_>==igEcZ9FK1
+!i103 1
+S1
+R4
+R15
+R16
+R17
+Z18 F/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Constants.vh
+Z19 L0 11
+R5
+R6
+R7
+R8
+!i113 0
+R9
+n@configure_@count_@k_@w_sv_unit
+XConstants_vh_unit
+R1
+R2
+!i10b 1
+!s100 9GQ@U91Y66a3>RkOG:PoY1
+IGnDCd>fYzc8R:z_3ODR8f0
+VGnDCd>fYzc8R:z_3ODR8f0
+!i103 1
+S1
+R4
+w1524763971
+Z20 8/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/verif/Constants.vh
+Z21 F/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/verif/Constants.vh
+R19
+R5
+r1
+!s85 0
+31
+R6
+Z22 !s107 /users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/verif/sample_input.vh|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/verif/Constants.vh|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/verif/tb_top.sv|
+Z23 !s90 -quiet|-64|-sv|-f|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/verif/tb.cfg|-work|work|
+!i113 0
+Z24 o-quiet -sv -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@constants_vh_unit
+vController
+R1
+R10
+!i10b 1
+!s100 90g=>PAa@jo0D=Eb5?3R12
+I23X=QbZ7RRUhWn4z0`^_a0
+R3
+!s105 Controller_sv_unit
+S1
+R0
+R11
+8/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/Controller.sv
+F/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/Controller.sv
+Z25 L0 22
+R5
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R9
+n@controller
+vCounter
+R1
+R2
+!i10b 1
+!s100 MKS_o=dBU6D?^d9iiZ[E50
+I_B@5BlRk4Y793IFK;KTEX0
+R3
+Z26 !s105 Counter_sv_unit
+S1
+R4
+w1525210082
+Z27 8/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Counter.sv
+Z28 F/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Counter.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@counter
+vcounter
+R1
+!s110 1525204160
+!i10b 1
+!s100 SgDe5=mTCD6ENF61W44N`1
+IK3YG53]]J>faF=_nC7<[00
+R3
+R26
+S1
+R4
+w1525204158
+R27
+R28
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1525204160.000000
+!s107 /users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/SHA256.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Majority.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Hash_Round.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Hasy‰àÈ‰âz@£›(‡ƒžó‡³Gy›ú@‡blÓ©ð_çVoëŽòpžõMÛ­ÄJ¼×oéæxŸåLÛ¬Ô[­ÆëšÂ ›Ù¼ˆ¡	øüÈ‹ôïî»ëÐæU¦~žû¶ÉÎÂmü¥ñYÿÂ=ÓÕqŒ­sÖY!(2•aIA;	ìKÛ•l3—%¹üNž£>Çë¨ìÀ(=Qãø,ïgäàe¸±êÙ@¡
+ß®Ü‰Dtù‹¥Úß¿)bn±æ¶5[zIÜ”	I˜†6Ÿî|È‡Üûó–ÀL¬û£0æ@ß”íîåhr¬v6P\^¤ßØ:Ý^ˆ¬òÐ¤jêÅÐ}2+”Ò6ó(%}Þr·Ùû[‚ÕÆG¥I;R¿±Ôü¥Uk¦À’©ólÛ¦¯…»ºÿ‚x†®_ ¤]¸¶a[È`ÑoªZ¶÷R)5>«–n¥0>û¹|îåCQµgÆðîÔôÿ¬þµÂa‡Q s·iªY>ºƒv ˆô
+œÂn†i·Ážà%’…p›+£Ò{/Û`²È½V-OÉÏÿÜàC?ìÛ£(Ô=3:î’;÷\y®ø :Èæ!ØvÛ6ÿAëSÀL1fVüÉÜh‚3)Í¬Ä\¤p(ÛzI”fvðÖÎ²k›Ó‘^ƒ;´£ðmuj 9]è4òsNq]G\ŒL§UjTáExÅ<HùÕc9»+®‹¶H:-ÜåŸZ`˜ cßÇ„Ôvc‚ú‡!03uZC¹KØ%FÅP%Ô'";£$øoôIÒâò^÷f{Œð~²l œÄHÛMÄÕ›p)Ù²GÜ‚A)‰7\Â2FÇC4t×ŸÃ†ÛçL’³võuëÁe~Ø}u¤úÐA.åy ¢"æï÷W¶ÎÂ¼ZÑöSÉ¢A÷@%ÕÃCjä9eQ+-×Zeþ¢ƒ%IÊßÏ¢+ítX“"9
+—AŸ‡w  »º«ì9ŒQ8…ñG]‘0fÂav]ÁB!2Áj4¨·ÎYÆRq„½÷ÊßsR
+ÿTG0c²R`0NtT Øƒ4ïÜ_m™tr×ë‘1ÿÂË tì»S2–dm_”nðPsÜÁYÅ%YIy¯ácb	½ç"ò½Ø‹I‡8‡× -œàfÀG-ÌÏ@bB‚hÏÇÃ‰ÆPWãr°'ÊÝU5z/TaW¿‚`2 )Yð#¿óäïÞy
+”¤rÕÍÿvoÚg_‚jFCoe®A«ÔBfÌœÍáeJøöƒ7p@/»•Þ–r1Åo˜Ñó¢""zT^p!xÑ0CZèà0>Ú¨“_]àò½>ÚxßÊøooÖÓGúÄgBÞMŽÎ¦`sy¨Ø†ƒŒNîÍöDÖûKUkObnù5»‰ýuƒ<ýLñ4ƒ“tv¥K¯§	}Ý‘~©–1ú´YŽ¥-·ííŽÈAàÝƒÇj7`‡(£wU>E£'zNÅWjÌi¤MíBÇI(<žÕëü[’’X=ôvš‘1_T78·p!Š²E[œs·}ùQ·[)*P©ÉŒÒªr$uÂó<ër‹üøçh”^¿ó1Jí -žÐ•BZÎÊÓYÑ=^æ6˜ž{–a¼üƒÈ&,¬üÓ5¸¦lß“ë»ŽyrÜsh¶<^£¯Ýd;>ˆ«‚Õúò
+êÂ xÎÔK”ÕF
+­ÿH"A8·Þ‹^Ü3¦O”­èª/m®¿¾‘­·Ê¶ÄNÃ»ÙÍË¢:þ—‘¾ƒy—ÿoèžôS£Z<U>²tú 8pyŸ\“d'ØÌ¢TKWXŒÑ{•Tp™|þ[‡HÜPK(£‹ÅÞ†C«êä*'!*«š=ÁtB¨ÊŠ`®Æò¹6 3ÍFWu}}ÿ³ xæj™©–BæÅ=½Â=Êñm6k´² ÕGh–ElÄuzˆ\NäDË¥ÍÎë¸¯¸¯¬Ž‰¯è€à,ÎúÀ¦^ãÛWEçÆ0<ž{ð”h<±œ­ø¹`¢x¨Ï‘›Í–^é±†}¿õuê'q6«²°’°ë„¹0Y€Òu¶;3â(º8]Õrâ‡0~ñÎ³N
+¨Áe›_ÝUòÔ1¸ªeñ>y* ³$ v^[þ³zÒ8Ó>¾¤M¨‘Ê¨‰ÏäK·Óde‡ðCUeJ¨ep&
+vfX‹Eîµ`S§:6@¹íQq2H'$e[9å$mLß—p)'û»”ƒœî}NGÃåÉ cžÍ›š÷	$-Ø½ÆÍÖJ!~º»«¢w6l—Øz®$ÍË«¤PœÈ½Ñ–Ø¶‡z£kFtÉåùÀ"h¢@¢iñ"80")‚MvS3
+</È7Ëà2y}Deì¿{ÕuimrvO·KÀFPÉ­²%{_üæ¦É¼Wê `æT·ã|Ò†„qšìgƒ	ƒ˜Ð-Æ{¯¬ºOûèVÿ˜XAs)‹³!}XÒJ×ü!–nç&”S¦½ðNÂNF-¼ðí>ÆmÏŸP3=îxb«îÖ=N¯bâ[?˜§O|’úÎm H´J„Ù‹Ò+ŸI.ÀÆÇX§ÒF†ZS§R«½ø0á!!ö"ÌÁ•‹ºŸn2/Ô‹T&{«§!k_ðVÔb X;z»¥@&A{èÔ FRä»¾áOþw>á»äjã`¦+Õj³?&k¦ýá~€¼yÀ6;'5Ï×Ì»9ñ=âßRr“TÀrfTLíC& O{´mé¸ÎHëTt³¡6Íâ¯j×)Þ›<ø¿n7u}W5PQ3cK\Âm9³:{½ör²Xv$Ìï137:ˆÿü1‹ùÂœÃ½›½Ã£mßßŒíÐ™|9›½†’>ò*ˆ‚FJæKÖÅwJ¶d¦EQ%øº¥mD© ¹"vU…ÊŒzØSç„ä71tÅ)Ð7vOc#[³uÙ”hO_Û/lhîÂÐ›’¶‚@“]€:Ä­üþU¶B£Ø±86]îöËåP0œÚÿæ(ã˜cÒ9Žü[â-õ,ÔÖñöÎá¶”^|G~DðC9Ô,ð8i¹”_Ÿ]æj‘ò~¹©ÄÞ¯oÐµ$Æ§BØ+íòjÎ`uË³Ù†|à°‚.Í'ê7ÒKS,^Â«°-gžÌ¿·™´œ=|O#5dÑÉ’#šíëÝÆq®à¸_ø°Ùÿã,Ù¸îˆ½ë1iû8Ð]$Q¿òŠö@LèáµÇ@Ç‘5Z´/R’OªA%
+5`/M¨ãM'Óa<~oŠçG}ÿi‰ø„l~ižÂìh«$ÜbD¬õ )¿ÒŸT–Kèó—ÆJ”H¨ì—nò<•$¤A^’+¼]Öá†0jžvQ®ÊLÄF;AE]ÕY<•qQ>‹¬¤qûžì×OÏø¶ùz›W+Ž¼V.}ù'¾€&Pñ¹ÊŠâOr\ìËœX”.îÇÈ
+¯ß: ’¿SYzŸ&Q('Suum
+–-¨dÊµ×¨ŽÛ/%[–¨!R1é„/çpÄ&~9]ÊµGeU@a”&ff3=Ò!M-ÌC¥]{æIÐ)ûë×I€‹š«¤&ÎØˆ²¾	£@[Šû%üîWùóÑæÉÎÍ‘wóKýèŒï`9žÃy—^-rÕÌkØmïUfºóÝo”NÞð¥R˜èÙÃ&<´ óë•uÿ8ë¨žò i©¨‰Æmº©›çËª­¾äàY¿¾Èà£ph¿îç#0Ð 9“%¶Uá¡@3`šà’L¾bLè¿ÒwV.ªæQP–{Ø…zÆa0Ìi½Ns¶Œô¶úáîvõ<ŸÏœ.Ê˜dæ5tÅ¹®ÍW®ë„ÙB#®Dçai‚ppë·; ìã´gOäßÍÃsZÖîØ»ÒL-9j ó¨ñDY.éÂ`<SŸõ~ð›š ¯£íúÄç?’½Õ´gáuó·OjLð²“dw/`EÁ=hú-¶Mì5ö3Ô$Î˜ÂXª3(ê¡>[<ÄcþMù‰8å¾Ðòµg{”ãŒæ0vêx‰¦ô™˜«x&,Êº¼ÔTRÆlýÖkniÚ¾Î×y]4wÂW$`=YÛÑ]9îšE%y±ÏlÄAHÃz½ÜÍ×¬0|ÙÒ «äbi¾Œg;Õb9‘üç{¦wOÿÏnˆ6×,÷+'=Ey z)ñ5hq¾³“\JÜŠ•\íK¬®é¾_{¼çºyÎ@aú˜r±0<9w1w"KX¦\/¼;ÚCò`Üòl]4Çc³é‘.(òé>¤A©Å
+ÚMÝÝÿT?îÏÁrG>0}’x%‘òú%ÈÞÕŸ×³>þŠÆ4Â8¯Üå_óhq s0©ÃÄ-w9òNë]÷yz 5^ßl,ÿA­ç) J2j+ÖB£´+=¦+…^Ê<ÛÔH®]\ËÀ¤ié7€9b‡":tà½±v=Û„Wb1BW•Rhƒ4pÐë¦ãV)þ®ÞcU õ^å®uva¿¥³(&/”ã;X¦oç­å[ŽzJ•ì}ˆ¶?f ŸÓ„;=°(²Ûò	ÒAv.ÔH¬VvMÿK:¡=¡8]»P<3¥z$@.V#	yß§Ì¡ÝdoÍ´>ðIáüÄŸ+ï—º.ÿáŽÙ»']ä
+ûFm‹DYWrŒ-•v	5¡-ÅYyµ\ÒB‹‡zIÇÊ©¥Sr¹±¥(…z”¹;á:ç¶Ç{™Pflìxór€+"º2 –DtÃÇœçå¸ÂÅxûóÐ.µÇ‰82B/ÍÄîç\N‰Ê¹ˆ“abÁ™þ‚(J!±	‹¦K)¬½ã‰˜Õª¿jš¦Â~Î¢
+ÄáROÎò%´a<¡¼û·I‘$ýcdqB½‘ŽÍhü@k™£Åö5t	ðhÂ5wçg¡86á,MÿlTìªNÐôØ¬¦Œø¦èMŸ¡p)„öI e©ƒoŒ-×#ÕYûf!¢20•Î‘IÔGn{·~¿§æó8$oºŒ­´%oê£ÝÿôV ¤}Þ×áû…ååï¤×0–Kb¦8»CŸ«’cQ™î«ÓFœÈ¦Ð‹±4ˆ$aŠ>M²È¹j>ÐÃ•um‡sá$o°åÔ^\¦oÏà»–]³oíÍÎ°qû¹Ñ²Là$®c,Ó.Õxµr7ëÑÖ}ÐƒÆtVhÅR„ B›#  ë•TPo\þè½Aýêf;…Ñ_nÈ7WCÀ©Á2e>amçs)‡þÌpÞÌ*8"JK žÆ^ÆCXÔp`é±. JYñòsÝår’A>óš­üM¶9ŽüÙÁaþï°{£„{¯ào‰”^‰ E™R+¹Ê_àB;¶Í‹”  eñ]º”PqÉûÑYd~_IÅaMHË,çÉìOžÃïW%{üª#Bc:‚½Å0 (9JŽ$ìïc¡¶dqä×_ÍV‘ð#¤£{P.—7‘5RßTö4tQ«œ÷4V|ÞºÛ^â"YˆÜ¿Dfs+¢±OdÚÖ‹õxE^äÄYÇq¾¸ Do™6.‰ @é¶núÏZžêž{WJ9¦>{ÿh¨5+<­÷E «âÏžgŸÄI±‰üïJ'~Êk(’‚L+#¤nÌ*û?o‹ç9äü§}ïîP,ý²}ÍÃ%
+Ñú«êé¬æ¢ýÂ9ÉŽÓášŒÒíÝÚóÆxžýÜÅô‹ž‚‚d#Û±ò$Pc•oñ*1ýæÔ÷"tÑS§Y.Ÿv[ŠQ°VBe2¨ü„p%NŽç[ ÒšœZ8.ƒÚ–—îÆRÛWÔ(Ô|©x¨¹pJU8cä­å>ÒbôÂ©ªÏô}ÇÐ\Ìú±ëä6‚,’mšÄ"Œ½Áò®ËØñƒ½B“÷{¸ß§äuTâtoº„+rEoê«[“26 ¤uX»'›…åí‹ƒb·0–C‡`a8»KÇTQ™æ-á}F”NÊë±4€¢L^M²À?ø«4I¾U´~ØiÖŠ¤ùüÃÔâyŸÉ†~øÖÑ¤ Ãua‰º¶å^Â¶"­¹«õR!Aà>äC>F4f*‡yÖfz¨mù–v	4vnÑƒÛŒuî½éÆ÷9@±dÄ!1+H/­ðCX	å‹±=Oï—x ²«¸¤ƒ”gèD"Ã	l\ðSžÅ§zq/»iÒÅÝÎn>é¡Ž2 />F+°PrU¼Ç!1½nJ¶GDY†N`48Šá ÐsÕù­RË|ÝùŽi-ÊÎÙ•ê!ÿ¦’?l¦`¥ö"	ø'5<ör&ˆ§uO™<ø‹`â}`X·%Î©ÎT:'¡#ÆÊózÈkþÕRßçþQ’(¬q9'Ô*Mì2¿É—[ Lìžêy¡^71üMÆÙó7Nù4¿Ær<Õ qñ@S©á'¹µC-Í…OÈ¢TxÏõ0¤Fd„]G 	>¼à@!~N®àÎîþ^ÐæûS
+HÞÞ¾¿læÒS¼©·AîLšˆËÞcCx¼ÉµÉ…1—Ê#>Î%÷P–ÂHej[$c»³ é¢æ,/ñ¤ ƒ.B.Ê,­„S$Z÷ åR"PiµFvr0Dc¹ú=Ó1ÀV›®z±šýÿ³ïT
+Ìÿã7ŸÔJ¿­éœü_ìqOÄ> ŸßCIè¨²×Ý€,ŠÁzé¦môÖvŠnb!=fJ4×Ý»\ûA€'¡	<+‡ùÑÐ¼¢,ÿà³½·,ÝÍÆ>‘ÿúâòqHôák¬ÔZ#º!÷D"ír",Ÿ	†wf's˜Ýòby4ìò2.	´HŸ|ð
+œ]2=hÙ¤­NÆÕ)È¥cÎKà.ªÌAcÆoÔÛ§ílB,ìð*6÷ÐjEm!‚	¬2ÈïbD‚@çS…«ÑüíRÁ*ð×M™BnWhÂF¸†Mm”|¬Ò20YéwzìK˜L®ó.õpT(é¥=£7Ø…YQè”Y‘MßV<àM÷˜ÆàØc†~S`0“Ó
+ž³Öÿ¿a0¿…Ô)·L8!LàKÞn•j¡5ÉˆçvA¢£>Ãóš†øÂE³Lè¾>…ÎŠúo9£Òd¹þ
+‡þË’¹˜³!§Zœ¬˜‘Ò|°äN r€­h6Ã êÑs<â5/¢»°AàîŒÏ[ê„
+‹ÒˆËÛ„Z¤¢‹¨ëz¡ žnUârÛ)Û&L~•ÙÿÓDà\íº)éÔz¬ã­Ï›·Q¯uZ„[–õÀ¦ÏÆu«`QôO˜ƒRŸ×Nƒ&êñbÅUS¸åvÌÂ3,ÙÐYû‹<¬¸I7páà"QQJ„FXÁ{„ViØë·|ð”¥nY/¯ÈÑ‰Û*£EÓ_Ó‰=Œç=º%$	ª¦C­ÃVj¥ÕZˆB†Fÿ`¦MT‹!ÿžYä†ˆ¬$4UìO5AS)‘54t/r$ªÜÄAL9‚<Ï×~Kíö(®‰9ÛÜöxù¹›¯™6_ú‘ŽwÇ)©Ë.©i%$Éø¡)a»íýšÈÌË¼äßí¾ìà¿r(¦ª 'åÇÔ ê,Q9¯~ë"Åx {ÿSnzQ¸­Ò7¥VF­}	†r9IîP]0_šI’0 1QÍ§¶ä–ÂõHºÛÖš)t®Gª†À&t/—&ãrK(*1Ô	Š³"ûÝþ¦BA¼ˆìþöm1<ÈŸ‘¸³2Ý2ù+á,˜¡Š…í¡šÈ©§sh®ªÀ… GNïÔ×cR$eìB (FÈ¢¶÷Ü®U©	 ö‹×êÄŽ„¤k‡œ…§¿ÕÚA*ü¡Êî[¬vÊ‘4dwÊ³%AB[QŸ<ÿE†s/æçÇ0Až¹%©"Ð¶,Ï]‰´ÑrˆÍ¸´_þËÛ  ˜f^P¸ÒÝJë#Þ•ßœã@\ëþŠ,³tzª€ÊÁQ©jÕû–ó£–•fG_Øa#ŒºórZ.1Ò´›´o1±XŠ¸…&†nµ2Ôòƒ"ß%L•3t’J®`…—l^èÊ{\“;­¢A‡èöo›³e¤P4?„³út»ðT½p[‚äâh_ÉÌÂŠ” ŠqåÃìÎËq²oýÏê´]†ñÂË‡Ëßå8˜¯Èü‚öð8šÏ“ã;¦5Ç}£•ÉDÓlu-ê´r«³ Á \c?«Nþñp ¬šŠåt.G<«Šµ[^Ç|Øåû…]ïiu`ºŽ×,YÕÉ³‚Z.Ýä»“í´Æ(µ[“£ dKžXTkp§Y°¨í0:R¶NÓ³Å»•Å²eµzÜð$·‹yJ¥fúñ8J
+ïÀk¥Gf>’Ë½”!foòítU@^–òªÃ_òì1ò~Q’¨€¨ÕpMùöÇ8äpÖ†Gx—S…om:šVW(/a>ZÚ*À'L6Ä¢Nn›ð5_ÜYˆé“\J®ÃýÙÿRE½âÒ²4à.¬áFsS;Š½yÁf~ø‘M«[°K“ØÎ‡¥Oîù¹š5:˜ýùÏlÀ
+ô´RºéŸP_ÐOÝ·ØÀnÐòÇX€¿Q,Äp•°:´HÐœcÅÒJ‡N…æ(îl¿±*§VùŠÍÒ¤ÀÁÙ>ÆþuòG™£ÍJ‰¼!/ÕÑl—2VëaÐÛ¸ªa¼êÏìÕMˆðáž¥(‰ÓßÙ‰
+¸¾ÝÌ¥É£°A	Ÿ¡à6fÅ
+„RH!U;„W}8¡Hë£;‰ ånX;è±EÉÛ+•ä<GÓzõs}º$0NÓ2­ÂB-ø1•Z‰VÁ?k ¦\4ßÕßôh6†M¨ÃÝñA„¼kOð9‡È£Zðª½…/&8Ú™ÃGŸëª¼ @iÝ›ÊõÆ\_ú¯¤·dÕÖeõÓy¾ˆ"e>Ó)‘ø¢%M¼gOûŠ0à9&×(²uÌŒUy$?w„xqºöCxíZÜŽÐú¼®íû÷º<[%ñqúœ7ïÛŠ/ðœ'<)°zä©±K+A¹%;°3(#dCõAØÞ;¢d-P9…I†b71,‡l{° Yc'PNŸ Æ³Í—%¦±Lœôƒ“	Ûcº¥×¾v”÷iŒÑHö‚!Lñžé×ïŠ¾Ð˜'r¡þ¨[´IËDTÝÚ«` I¾„ìƒQ ‘ôlÃ"OWO÷DÖÊ×$|“£ey(ñ‘uwHq¶8¥jÜ‚äi	Œ®á5çÿþÇºò½JAúù	²HgLæåÂSct5á}Ð7jè‡H•EF?‚Éžêm¦,ó–à†R®sµ[7:(¼I–`Xyƒ$[•__­÷1:ËÏœ÷a»˜ï˜/Ë¸°šBnSkˆßn¨ýgÝ¸ 0õùÌéÚÉXÍê¨¤Þô*®Á«2)¿>Bñ‡Õ9~ßEy©aó]Nƒk‡Üá#Ûõ®‚Ç_~Zõ„v+n©}R;†nÖx.ä`ŠÈÑH]¦€1,~
+ _ät(íNêÓEê§}†ŸélÈ'-ûôe2·û¤JB÷o”ê”A'âÂ«’§î¤Ø¢ž’¥8¬õª [‘ZÅ×4}Ð$Ò1uWVÓ²%za»‘‰Ùü!&š=ò _L(»ý˜k½\”Ô•Sµê¶wb=`æ`~·âA $éiü'ÑðHéAëanÎÑfþŠ5—x‘"¥T[½Z*’|È†9b0—õWÜ’-ü«L£}ÓÛÐi3Ø¸}ìr•€\QY;^‡Q,3™Äjå8ž­â+›/èìÎÉ(Ø£ø"r¸$%¸¿ÆM]ÞÆÕ·T0A÷_¢µ¥ó¹MÞÖøQøMq\Ær9‡aE"Ê¤Jõ6RÁpÂ(;r;r‰¬H¨â@*–„-ØC"=Ã n„{'c0Ö±AM(“£0æLŽÀnL‹×LÞïÌË¤#1äÞ	¦Ñ©ÎÜ›%¢ÂQ™ó\˜­‘r­¢h¾ìïeKÐ•ïy’ ÄçRµÌn†„zY0 à2EÊÕóKÝØ±Œ–mèÃ.¸ü#>£ð„žf–|Û y“„~Í±.Ü34O ùƒª³;žÈí|…:ÎçüÅIò€9žÔÐäwÁ¡Mì•ÈÂ²Aa—ÊŸß¨£|£½ªëŽâ´[Øˆ¥á”CÌdb»!¿–ŒùiÏüçÑ5\˜ñ b 1 ±9¡w -Ä?öcÝ‰êaF~ÿàŸÈïÏÿcB-‡„_áUR€P+õva+¥Y{•PDë‡x½E¿Áª«… “tÙ±§E|ô¹9Á6'ÖçwY0fnÌtÏõ{r‚.z	ý2 š„u¥¿C\–[×!.rF‹ŸsÙ§Y 2¹K·]¯»ƒ_ã"<›Æˆ‰ÜRŽVœ¨’?à=Wy‹¹^w·°‚b ÌÐØÔd®Ž@HådXþÀ–_ýè;ŽWÇ.ÐX;$i"]ZÁ3	a¼”n£Z+Ìˆ²/ÝMÍ¾ë™,Kº†ª^vþF êšZ´ÊÇwƒ<Ijóz×b6s¢7©‡ bn·zœ1Ÿ9„Ò#*ò{·aräY…æ ]“ámÀ
+%{òžM—{¢ îÍ×gìþíåÂÊ‘­f>Ý‡æ$ÞÈ2P…0,óÀ¬™±REÑm˜¿ð,R7m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/sim
+vA_Shifter
+Z1 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z2 !s110 1525241161
+!i10b 1
+!s100 S[=M5mWAaNKo?czF?4Pgg1
+I8d2FF`7AfAXYNd?QFoHkB1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 A_Shifter_sv_unit
+S1
+Z4 d/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/sim
+w1524768034
+8/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/A_Shifter.sv
+F/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/A_Shifter.sv
+L0 2
+Z5 OL;L;10.4c;61
+r1
+!s85 0
+31
+Z6 !s108 1525241161.000000
+Z7 !s107 /users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/SHA256.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Set_W_Mem.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Majority.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Hash_Round.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Hash_Function.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/E_Shifter.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Counter.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Constants.vh|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Configure_Count_K_W.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Choosing_Function.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/A_Shifter.sv|
+Z8 !s90 -quiet|-64|-sv|-f|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/rtl.cfg|
+!i113 0
+Z9 o-quiet -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@a_@shifter
+vadder
+R1
+Z10 !s110 1521654141
+!i10b 1
+!s100 ijVXn`j8gkb?JEem_D[5R0
+IcO62lKCK^g1=YhIz9IW:_1
+R3
+!s105 adder_sv_unit
+S1
+R0
+Z11 w1520736405
+8/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/adder.sv
+F/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/adder.sv
+L0 3
+R5
+r1
+!s85 0
+31
+Z12 !s108 1521654141.000000
+Z13 !s107 /users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/adderCL4.sv|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/adder32Bit.sv|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/aluConstants.vh|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/branchMux.sv|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/RISC_V.sv|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/Datapath.sv|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/Controller.sv|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/RegFile.sv|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/alu.sv|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/ALUController.sv|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/instructionmemory.sv|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/datamemory.sv|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/mux2.sv|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/imm_Gen.sv|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/flopr.sv|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/adder.sv|
+Z14 !s90 -quiet|-64|-sv|-f|/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/rtl.cfg|
+!i113 0
+R9
+vadder32Bit
+R1
+R10
+!i10b 1
+!s100 STPjjD?BMdDm2NHB5NIW32
+In6gFS_AfNnT2RXfZdzYPE0
+R3
+!s105 adder32Bit_sv_unit
+S1
+R0
+R11
+8/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/adder32Bit.sv
+F/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/adder32Bit.sv
+L0 2
+R5
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R9
+nadder32@bit
+vadderCL4
+R1
+R10
+!i10b 1
+!s100 6zY^cbP2`Fm6QH8G]AafW0
+IgB0ezG`k?B`6lo_VVb7n03
+R3
+!s105 adderCL4_sv_unit
+S1
+R0
+R11
+8/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/adderCL4.sv
+F/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/adderCL4.sv
+L0 2
+R5
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R9
+nadder@c@l4
+valu
+R1
+R10
+!i10b 1
+!s100 P5`zPh7hJzRQ8CNVVO8_e3
+Id04b>^SJz6cBPFH;9@KKU2
+R3
+!s105 alu_sv_unit
+S1
+R0
+R11
+8/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/alu.sv
+F/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/alu.sv
+L0 21
+R5
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R9
+vALUController
+R1
+R10
+!i10b 1
+!s100 <:QNE]]_JJIblAh^B48DN0
+IaKf4EcAG01kQEZ1LS9lAA1
+R3
+!s105 ALUController_sv_unit
+S1
+R0
+R11
+8/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/ALUController.sv
+F/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/ALUController.sv
+L0 24
+R5
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R9
+n@a@l@u@controller
+vbranchMux
+R1
+R10
+!i10b 1
+!s100 :BFJa4WaBA6[VXA?8Ya?[3
+I]=0b4W9ffCP:TH4_@LmbQ0
+R3
+!s105 branchMux_sv_unit
+S1
+R0
+R11
+8/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/branchMux.sv
+F/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/branchMux.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R9
+nbranch@mux
+vChoosing_Function
+R1
+R2
+!i10b 1
+!s100 ae[mb[>DcRH1bSDg@R50i2
+IoEi?J=LQU76:hk>8Gn[H:3
+R3
+!s105 Choosing_Function_sv_unit
+S1
+R4
+w1524768125
+8/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Choosing_Function.sv
+F/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Choosing_Function.sv
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@choosing_@function
+vConfigure_Count_K_W
+R1
+DXx4 work 27 Configure_Count_K_W_sv_unit 0 22 FC>=2a0hM_>==igEcZ9FK1
+R3
+r1
+!s85 0
+31
+!i10b 1
+!s100 UXC5SA0ThWDW0VbPh[nGz1
+I<k:d2W@=aCGWJ[>>J88I@1
+!s105 Configure_Count_K_W_sv_unit
+S1
+R4
+Z15 w1525240908
+Z16 8/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Configure_Count_K_W.sv
+Z17 F/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Configure_Count_K_W.sv
+L0 2
+R5
+R6
+R7
+R8
+!i113 0
+R9
+n@configure_@count_@k_@w
+XConfigure_Count_K_W_sv_unit
+R1
+VFC>=2a0hM_>==igEcZ9FK1
+r1
+!s85 0
+31
+!i10b 1
+!s100 PWZVf7]dHYl<:eFZ0n_Pd0
+IFC>=2a0hM_>==igEcZ9FK1
+!i103 1
+S1
+R4
+R15
+R16
+R17
+Z18 F/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Constants.vh
+Z19 L0 11
+R5
+R6
+R7
+R8
+!i113 0
+R9
+n@configure_@count_@k_@w_sv_unit
+XConstants_vh_unit
+R1
+Z20 !s110 1525241162
+!i10b 1
+!s100 9GQ@U91Y66a3>RkOG:PoY1
+IGnDCd>fYzc8R:z_3ODR8f0
+VGnDCd>fYzc8R:z_3ODR8f0
+!i103 1
+S1
+R4
+w1524763971
+Z21 8/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/verif/Constants.vh
+Z22 F/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/verif/Constants.vh
+R19
+R5
+r1
+!s85 0
+31
+R6
+Z23 !s107 /users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/verif/sample_input.vh|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/verif/Constants.vh|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/verif/tb_top.sv|
+Z24 !s90 -quiet|-64|-sv|-f|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/verif/tb.cfg|-work|work|
+!i113 0
+Z25 o-quiet -sv -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@constants_vh_unit
+vController
+R1
+R10
+!i10b 1
+!s100 90g=>PAa@jo0D=Eb5?3R12
+I23X=QbZ7RRUhWn4z0`^_a0
+R3
+!s105 Controller_sv_unit
+S1
+R0
+R11
+8/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/Controller.sv
+F/users/ugrad/2017/spring/justidl3/112L/pipeLining/lab-2/design/Controller.sv
+Z26 L0 22
+R5
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R9
+n@controller
+vCounter
+R1
+R2
+!i10b 1
+!s100 MKS_o=dBU6D?^d9iiZ[E50
+I_B@5BlRk4Y793IFK;KTEX0
+R3
+Z27 !s105 Counter_sv_unit
+S1
+R4
+w1525210082
+Z28 8/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Counter.sv
+Z29 F/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Counter.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@counter
+vcounter
+R1
+!s110 1525204160
+!i10b 1
+!s100 SgDe5=mTCD6ENF61W44N`1
+IK3YG53]]J>faF=_nC7<[00
+R3
+R27
+S1
+R4
+w1525204158
+R28
+R29
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1525204160.000000
+!s107 /users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/SHA256.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Majority.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Hash_Round.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicD
