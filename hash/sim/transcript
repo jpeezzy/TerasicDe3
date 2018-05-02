@@ -1,5 +1,5 @@
 # vsim -quiet -c tb_top_opt -do "sim.do" "+notimingchecks" 
-# Start time: 23:06:05 on May 01,2018
+# Start time: 23:50:56 on May 01,2018
 # //  Questa Sim-64
 # //  Version 10.4c linux_x86_64 Jul 19 2015
 # //
@@ -31,25 +31,35 @@
 # 
 # Count is at           4 
 # 
-# Count is at         vsim waveform.wlf
+# Count is at           5 
+# 
+# Count is at           6 
+# 
+# Count is vsim waveform.wlf
 # OpenFile waveform.wlf
 add wave -position insertpoint  \
-waveform3:/tb_top/sha256/ckw/in
+waveform3:/tb_top/out
 add wave -position insertpoint  \
-waveform3:/tb_top/sha256/ckw/W
-add wave -position insertpoint  \
-waveform3:/tb_top/sha256/ckw/K
-add wave -position insertpoint  \
-waveform3:/tb_top/sha256/ckw/count
-add wave -position insertpoint  \
-waveform3:/tb_top/sha256/ckw/K
-add wave -position insertpoint  \
-waveform3:/tb_top/sha256/ckw/W
-add wave -position insertpoint  \
-waveform3:/tb_top/sha256/_W_Mem
+waveform3:/tb_top/sha256/out
 add wave -position insertpoint  \
 waveform3:/tb_top/sha256/count
-   24 
+add wave -position insertpoint  \
+waveform3:/tb_top/sha256/count
+Count is at          17 
+# 
+# Count is at          18 
+# 
+# Count is at          19 
+# 
+# Count is at          20 
+# 
+# Count is at          21 
+# 
+# Count is at          22 
+# 
+# Count is at          23 
+# 
+# Count is at          24 
 # 
 # Count is at          25 
 # 
@@ -129,9 +139,7 @@ waveform3:/tb_top/sha256/count
 # 
 # Count is at          63 
 # 
-# Count is at          64 
-# 
 # ** Note: $finish    : /users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/verif/tb_top.sv(35)
 #    Time: 20 us  Iteration: 0  Instance: /tb_top
-# End time: 23:06:05 on May 01,2018, Elapsed time: 0:00:00
+# End time: 23:50:58 on May 01,2018, Elapsed time: 0:00:02
 # Errors: 0, Warnings: 0

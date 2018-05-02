@@ -35,11 +35,14 @@ Hash_Round hr(
 	_out
 );
 
+initial _input = {`h0, `h1, `h2, `h3, `h4, `h5, `h6, `h7};
+
 always begin 
 	#60 if (count < 63) begin
 		count++;
 		//By assigning the  _W_Mem here we avoid any race conditions
-		_W_Mem[count%16] = _W_WIRE;
+		_W_Mem[(count-1)%16] = _W_WIRE;
+		_input = _out;
 	end;
 end
 
