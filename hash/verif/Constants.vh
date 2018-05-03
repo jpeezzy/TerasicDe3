@@ -1,12 +1,12 @@
 //Here are all the constants 
-`define h0 8'h6a09e667
-`define h1 8'hbb67ae85
-`define h2 8'h3c6ef372
-`define h3 8'ha54ff53a
-`define h4 8'h510e527f
-`define h5 8'h9b05688c
-`define h6 8'h1f83d9ab
-`define h7 8'h5be0cd19
+`define h0 32'h6a09e667
+`define h1 32'hbb67ae85
+`define h2 32'h3c6ef372
+`define h3 32'ha54ff53a
+`define h4 32'h510e527f
+`define h5 32'h9b05688c
+`define h6 32'h1f83d9ab
+`define h7 32'h5be0cd19
 
 reg [31:0]k[64] = {
 32'h428a2f98, 32'h71374491, 32'hb5c0fbcf, 32'he9b5dba5, 32'h3956c25b, 

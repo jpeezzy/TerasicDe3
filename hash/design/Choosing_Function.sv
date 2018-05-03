@@ -8,6 +8,6 @@ module Choosing_Function #(parameter BIT_W = 32)
 	output logic[BIT_W - 1:0] choose_Out
 );
 //from boolean logic out = (!E)&G + E&F 
-assign choose_Out = (~E)&F + E&F;
+assign choose_Out = (~E)&G | E&F;
 
 endmodule

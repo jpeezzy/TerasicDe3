@@ -8,6 +8,6 @@ module Majority #(parameter BIT_W = 32)
 	output logic[BIT_W - 1:0] out
 );
 
-assign out  = (A&B) | (A&C) | (A&B);
+assign out  = (A&B) | (A&C) | (B&C);
 
 endmodule

@@ -10,7 +10,7 @@ cModel Technology
 Z0 d/users/ugrad/2017/spring/justidl3/112L/lab-2/lab-2/sim
 vA_Shifter
 Z1 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
-Z2 !s110 1525243852
+Z2 !s110 1525366870
 !i10b 1
 !s100 S[=M5mWAaNKo?czF?4Pgg1
 I8d2FF`7AfAXYNd?QFoHkB1
@@ -26,7 +26,7 @@ Z6 OL;L;10.4c;61
 r1
 !s85 0
 31
-Z7 !s108 1525243852.000000
+Z7 !s108 1525366870.000000
 Z8 !s107 /users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/SHA256.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Set_W_Mem.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Majority.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Hash_Round.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Hash_Function.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/E_Shifter.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Counter.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Constants.vh|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Configure_Count_K_W.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Choosing_Function.sv|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/A_Shifter.sv|
 Z9 !s90 -quiet|-64|-sv|-f|/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/rtl.cfg|
 !i113 0
@@ -178,13 +178,13 @@ vChoosing_Function
 R1
 R2
 !i10b 1
-!s100 ae[mb[>DcRH1bSDg@R50i2
-IoEi?J=LQU76:hk>8Gn[H:3
+!s100 6NnU;Va<oCz42bGRPSDfH0
+I8LMCg125FcDGL4beMkIoG0
 R3
 !s105 Choosing_Function_sv_unit
 S1
 R4
-R5
+w1525366868
 8/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Choosing_Function.sv
 F/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Choosing_Function.sv
 L0 2
@@ -256,7 +256,7 @@ VGnDCd>fYzc8R:z_3ODR8f0
 !i103 1
 S1
 R4
-Z20 w1525242334
+Z20 w1525366079
 Z21 8/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/verif/Constants.vh
 Z22 F/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/verif/Constants.vh
 R19
@@ -608,13 +608,13 @@ vMajority
 R1
 R2
 !i10b 1
-!s100 I8d<fJT<XIAcPbk:4@U:<3
-IJo1lmJYIKN^^FmGAl01o00
+!s100 BzT6g_GLOXnZM=1<36c3_3
+IF^]g0P8CH2UGEGZMFJ_1;3
 R3
 !s105 Majority_sv_unit
 S1
 R4
-R5
+w1525366493
 8/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Majority.sv
 F/users/ugrad/2017/spring/justidl3/gitProjects/TerasicDe3/hash/design/Majority.sv
 L0 2
@@ -774,8 +774,8 @@ vtb_top
 R1
 R2
 !i10b 1
-!s100 fRIbQ[2T>MaXD?>6UN;Tn1
-IZT=J<RZm5[n7UdPiF`4:?3
+!s100 1TN>^z3MRc9>2LdU<_KgH3
+IEGEkJoPE[U_1e5PfZzF633
 R3
 !s105 tb_top_sv_unit
 S1
@@ -784,6 +784,7 @@ R20
 R31
 R32
 R33
+R22
 L0 2
 R6
 r1
@@ -795,8 +796,8 @@ R24
 !i113 0
 R25
 Ttb_top_opt
-!s110 1525243853
-VPJn<?ZBWR@FH`<D2K9Bba0
+!s110 1525366871
+VSb80h53odFKl>X<TL9X[c0
 04 6 4 work tb_top fast 0
 o-quiet +acc -work work
 ntb_top_opt
